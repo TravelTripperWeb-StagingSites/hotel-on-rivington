@@ -1,6 +1,6 @@
 {
-    "name": "The Spa",
-    "description":  "Have a nice relaxing time at the spa",
-    "order": 1,
-    "hidden": false
+  "name": "Dining",
+  "description": " <br />Grab a bite to eat at the hotel&apos;s restaurant, which features a bar, or stay in and take advantage of room service (during limited hours). Relax with a refreshing drink at one of the 2 bars/lounges. Full breakfasts are available daily for a fee.",
+  "order": 1,
+  "hidden": false
 }

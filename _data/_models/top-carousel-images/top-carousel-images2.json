@@ -1,0 +1,8 @@
+{
+  "name": "Secondary Photo",
+  "image": {
+    "url": "http://d31f902anbz5po.cloudfront.net/1046/110607_1_master.jpg"
+  },
+  "order": 3,
+  "hidden": false
+}

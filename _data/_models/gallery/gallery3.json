@@ -1,8 +1,10 @@
 {
-    "name": "Image 3",
-    "image": { "url": "/assets/images/gallery3.jpg" },
-    "description": "Gallery Image 3",
-    "order": 3
+  "name": "Image 3",
+  "image": {
+    "url": "http://d31f902anbz5po.cloudfront.net/1046/110608_1_master.jpg",
+    "description": "",
+    "caption": "Image 3",
+    "alt": ""
+  },
+  "order": 3
 }
-
-

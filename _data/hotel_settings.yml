@@ -1,0 +1,16 @@
+---
+_hotel_id: HOT861
+_portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
+latitude: 40.71993
+longitude: -73.98799
+name: Hotel On Rivington
+email: steffan@traveltripper.io
+phone_number: "--"
+address:
+  street1: 107 Rivington Street
+  street2: ''
+  state: New York
+  city: New York
+  country: United States
+  zip_code: '10002'
